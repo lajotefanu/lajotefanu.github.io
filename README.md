@@ -2,7 +2,7 @@
 A personal blog
 
 ## Home
-<https://lajotefanu.github.io>
+<https://lajotefanu.github.io/>
 
 ## Links
 <http://hentaimore.net/>
